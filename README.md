@@ -39,7 +39,6 @@ Include pictures and contents for your subpages and map them using urls and view
 </map>
 
 
-
 </body>
 </html> 
 
