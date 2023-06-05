@@ -20,29 +20,13 @@ Include pictures and contents for your subpages and map them using urls and view
 
 ##Code:
 <!DOCTYPE html>
-<html>
-    <head>
-        <title>
-            Image Map
-        </title>
-    </head>
-    <body >
-        <h1 align="center" >
-            <font color="red" >
-                    Image Map Of My Home Town
-            </font>
-
-
-            
-        </h1>
-        <h3 align="center">
-        <font color="blue" face ="cursive">
-            RAHUL.B(22001882)
-        </font>
-            
-        </h3>
-        <center>
-        <img id="Image-Maps-Com-image-maps-2023-06-05-141040" src="map1.jpg.jpeg" border="0" width="1828" height="788" orgWidth="1828" orgHeight="788" usemap="#image-maps-2023-06-05-141040" alt="" />
+<html lang="en">
+<head>
+    
+    <title>myplaces</title>
+</head>
+<body>
+   <img id="Image-Maps-Com-image-maps-2023-06-05-141040" src="map1.jpg.jpeg" border="0" width="1828" height="788" orgWidth="1828" orgHeight="788" usemap="#image-maps-2023-06-05-141040" alt="" />
 <map name="image-maps-2023-06-05-141040" id="ImageMapsCom-image-maps-2023-06-05-141040">
 <area  alt="" title="stadium" href="stadium.html" shape="rect" coords="693,401.00001525878906,743,451.00001525878906" style="outline:none;" target="_self"     />
 <area  alt="" title="stadium" href="stadium.html" shape="rect" coords="493,418,668,665" style="outline:none;" target="_self"     />
@@ -51,19 +35,9 @@ Include pictures and contents for your subpages and map them using urls and view
 <area  alt="" title="theater" href="theater.html" shape="rect" coords="1831,302,1874,353" style="outline:none;" target="_self"     />
 <area  alt="" title="postoffice" href="postoffice.html" shape="rect" coords="1801,479,1844,530" style="outline:none;" target="_self"     />
 <area shape="rect" coords="1918,1078,1920,1080" alt="Image Map" style="outline:none;" title="Image Map" href="https://www.image-maps.com/" />
-</map>
-        </center>
-        <p align="center">
-            <font color="maroon"  face="Comic Sans MS" >
-                This Image Map shows various locations around my home.<br>
-                Click the location and get information about it.
-            </font>
-        </p>
-
-
-    </body>
-</html>
-
+</map> 
+</body>
+</html> 
 
 ## Output:
 
