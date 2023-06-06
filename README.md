@@ -19,6 +19,7 @@ Step 5:
 Include pictures and contents for your subpages and map them using urls and views
 
 ##Code:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -41,6 +42,7 @@ Include pictures and contents for your subpages and map them using urls and view
 
 </body>
 </html> 
+```
 
 
 ## Output:
